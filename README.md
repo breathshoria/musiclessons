@@ -1,13 +1,10 @@
-# musiclessons
+Augmented reality project for school students interaction on music lessons.
 
-Developing augmented reality addition to school music lessons.
+Code base:
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-hhhhhhhsss
-=======
-hey hey hey
->>>>>>> 8b051f5 (test)
-=======
-hhhhhhhsss
->>>>>>> b15e75c (Revert "Merge branch 'master' into staging")
+AR.js
+node.js + express
+
+Length of development:
+
+1 week
