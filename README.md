@@ -1,4 +1,4 @@
-Augmented reality project for school students interaction on music lessons.
+Augmented reality project for enhanced music lessons in school.
 
 Code base:
 
