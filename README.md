@@ -7,4 +7,3 @@ node.js + express
 
 Length of development:
 
-1 week
