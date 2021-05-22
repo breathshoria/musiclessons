@@ -6,6 +6,7 @@ const errors = require('./controllers/errors');
 const mainRoutes = require('./routes/mainRoutes');
 
 const port = 8000;
+const host = '0.0.0.0'
 const app = express();
 
 app.use(cors());
@@ -29,7 +30,7 @@ app.use('/', mainRoutes);
 
 (async () => {
   try {;
-    app.listen(port);
+    app.listen(port, host);
     console.log('Connection has been established successfully.');
   } catch (error) {
       console.log(error);
