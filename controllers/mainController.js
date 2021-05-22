@@ -10,7 +10,7 @@ exports.getIndexPage = (req, res, next) => {
 
 exports.getAugmented = async (req, res, next) => {
   try {
-    res.render('index', {
+    res.render('lessons', {
       pageTitle: 'AR Engine',
     });
   } catch (err) {
