@@ -1,5 +1,9 @@
-# musiclessons
+Augmented reality project for enhanced music lessons in school.
 
-Developing augmented reality addition to school music lessons.
+Code base:
 
-hey hey hey
+AR.js
+node.js + express
+
+Length of development:
+
