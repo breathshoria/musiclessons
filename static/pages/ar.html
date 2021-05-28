@@ -21,7 +21,8 @@
         <a-assets>
             <audio id="sound" src="/sounds/nutcracker.mp3" preload="auto"></audio>
         </a-assets>        
-        <a-marker preset="hiro">
+        <a-marker preset='custom' type='pattern' url='/patt/default.patt'>
+
             <!-- we use cors proxy to avoid cross-origin problems ATTENTION! you need to set up your server -->
             <a-entity
             position="0 0 0"
