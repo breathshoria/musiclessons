@@ -1,4 +1,4 @@
-exports.getIndexPage = (req, res, next) => {
+exports.getIndexPage = async (req, res, next) => {
   try {
     res.render('index', {
       pageTitle: 'Music Lessons with AR',
