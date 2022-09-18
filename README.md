@@ -5,5 +5,3 @@ Code base:
 AR.js
 node.js + express
 
-Length of development:
-
